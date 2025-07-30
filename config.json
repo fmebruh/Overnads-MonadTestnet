@@ -1,12 +1,7 @@
 {
-    "auth_token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkMTg4NDY1My00ODY2LTQxODYtOGU3Yy04NWY2NDVmZDNlMjAiLCJ1c2VybmFtZSI6ImFuc2gxMV8iLCJ0eXBlIjoiYWNjZXNzIiwiaWF0IjoxNzUzODkzNTI1LCJleHAiOjE3NTM4OTQ0MjV9.b38KmUr7CACUMjYVyjMA9cr9ukU7-xdX44nmxDe0XPQ",
-    "telegram_bot_token": "7978926689:AAGw8PWZTNelFBdo6fxzvqe_662CAFcY30M",
-    "telegram_chat_id": "-1002619919213",
-    "user_agents": [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
-    ]
+  "auth_token": "Bearer YOUR_AUTHENTICATION_TOKEN_HERE",
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+  ]
 }
