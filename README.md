@@ -63,6 +63,7 @@ The bot needs your authentication token to work.
     - Perform an action on the site, like clicking your profile.
     - Find a request to the `app.overnads.xyz/api/` endpoint.
     - Look for the "Request Headers" section and copy the entire value of the `Authorization` header.
+    - IT WILL EXPIRE IN 15 MINUTES, SO MAKE SURE TO USE NEW ONE EVERYTIME.
 
 ## Usage
 
