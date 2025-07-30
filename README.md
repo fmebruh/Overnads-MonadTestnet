@@ -23,10 +23,9 @@ Follow these steps to get the bot up and running.
 ### 2. Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
-git clone <repository_url>
-cd overnads-bot
+git clone https://github.com/fmebruh/Overnads-MonadTestnet
+cd Overnads-MonadTestnet
 ```
-*(If not using Git, you can download the files and place them in a folder named `overnads-bot`)*
 
 ### 3. Set Up a Virtual Environment (Recommended)
 This keeps the project's dependencies isolated.
